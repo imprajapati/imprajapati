@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently work at riviera infraproject pvt ltd as a full stack developer 
+Backend-focused Full Stack Developer currently working at Riviera Infraprojects Pvt. Ltd., experienced in ASP.NET, PostgreSQL, React, and REST APIs. Specialized in ERP systems, database optimization, GST integrations, and enterprise workflow automation. Passionate about clean architecture and building scalable, high-performance business applications.
 
 
 ## 🌐 Socials:
